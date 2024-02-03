@@ -8,5 +8,5 @@ Step 1: Unzip each folder in the folder Table II. These folders' names are the s
 
 Step 2: In the algorithm folder of these folders, run *.m files in the folder of GD (the related work) or of OL (our proposed work). 
 
-Step 3: When it is completed, the results will be automatically stored as *.mat files in the corresponding folder, i.e., GD folder or OL folder, in the ouput folder.
+Step 3: The results will be automatically stored as *.mat files in the corresponding folder, i.e., GD folder or OL folder, in the ouput folder.
 

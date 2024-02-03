@@ -4,7 +4,7 @@ The code at this link https://drive.google.com/drive/folders/1ukXOiKAxcEhNU-_KFl
 
 Follow the below steps to run experiments in Matlab.
 
-Step 1: Unzip each folder in the folder Table II.
+Step 1: Unzip each folder in the folder Table II. These folders' names are the same as the names of 12 scenarios in Table II. 
 
 Step 2: In the algorithm folder of these folders, run *.m files in the folder of GD (the related work) or of OL (our proposed work). 
 

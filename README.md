@@ -13,6 +13,6 @@ Follow the below steps to run experiments in Matlab.
 
 - When the experiment is finished, the results will be stored in the file output_OL_2cams_3targets_1horizons_10000TimeStamps_0.mat.
 
-- Run the file plot_results.m to visulise the results.
+- Run the file plot_results.m to visualize the results.
   
 - To reproduce Table 2 in the paper, have access to the code at this link https://drive.google.com/drive/folders/1ukXOiKAxcEhNU-_KFl9iw_tCcfU_x2KZ?usp=sharing

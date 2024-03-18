@@ -8,13 +8,11 @@ Contact me at the email address which is long.nguyen1@monash.edu.
 
 Follow the below steps to run experiments in Matlab.
 
-Step 1: Unzip each folder in the folder Table II. These folders' names are the same as the names of 12 scenarios in Table II. 
+- Run the file OL_2cams_3targets_1horizons_10000TimeStamps_0.m.
+  Here, the file scenario_2cams_3targets_1horizons_10000TimeStamps_0.mat should be the input file which includes the number of cameras and vessels, and their initial positions.
 
-Step 2: In the algorithm folder of these folders, run *.m files in the folder of GD (the related work) or of OL (our proposed work). 
+- Atfer the experiment is done, the results will be save as the file output_OL_2cams_3targets_1horizons_10000TimeStamps_0.mat.
 
-Step 3: When the experiments are completed, their results will be automatically stored as *.mat files in the corresponding folder, i.e., GD folder or OL folder, in the ouput folder.
-
-
-
-
-https://drive.google.com/drive/folders/1ukXOiKAxcEhNU-_KFl9iw_tCcfU_x2KZ?usp=sharing
+- Run the file plot_results.m to visulise the results.
+  
+- To reproduce Table 2 in the paper, please have access to the code at this link https://drive.google.com/drive/folders/1ukXOiKAxcEhNU-_KFl9iw_tCcfU_x2KZ?usp=sharing

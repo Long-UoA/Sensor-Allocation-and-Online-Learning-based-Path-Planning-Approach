@@ -11,7 +11,7 @@ Follow the below steps to run experiments in Matlab.
 - Run the file OL_2cams_3targets_1horizons_10000TimeStamps_0.m to do the experiment.
   Here, the file scenario_2cams_3targets_1horizons_10000TimeStamps_0.mat which includes the number of cameras and vessels, their initial positions, as well as the vessel trajectories, should be the input.
 
-- When the experiment is finished, the results will be stored in the file output_OL_2cams_3targets_1horizons_10000TimeStamps_0.mat.
+- When the experiment is finished, the results will be automatically stored in the file output_OL_2cams_3targets_1horizons_10000TimeStamps_0.mat.
 
 - Run the file plot_results.m to visualize the results.
   

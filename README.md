@@ -9,7 +9,7 @@ Contact me at the email address which is long.nguyen1@monash.edu.
 Follow the below steps to run experiments in Matlab.
 
 - Run the file OL_2cams_3targets_1horizons_10000TimeStamps_0.m to do the experiment.
-  Here, the file scenario_2cams_3targets_1horizons_10000TimeStamps_0.mat should be the input which includes the number of cameras and vessels, and their initial positions.
+  Here, the file scenario_2cams_3targets_1horizons_10000TimeStamps_0.mat which includes the number of cameras and vessels, and their initial positions should be the input.
 
 - When the experiment is finished, the results will be stored in the file output_OL_2cams_3targets_1horizons_10000TimeStamps_0.mat.
 
